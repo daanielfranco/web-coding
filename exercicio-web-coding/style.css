@@ -1,0 +1,82 @@
+*{margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: #9CBCD9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid #fff;
+
+}
+
+#area-cabecalho{
+    background-color:#0B2D59;
+    color: #fffde5;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.apresentacao{
+    font-weight: bold;
+    font-style: italic;
+}
+    
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+
+}
+
+a:link, a:visited {
+    padding: 20;
+}
+
+a:hover{
+    background-color: #F2780C;
+    color: #000;
+    margin: 5px;
+}
+
+#listas-nao-ordenadas{
+    padding:30px ;
+}
+
+#formulario{
+    padding: 20px;
+    
+}
+
+#area-artigo{
+    text-align: center;
+    
+}
+
+#area-video{
+    padding: 20px;
+    text-align: center;
+}
+
+
+.caixa-arredondada {
+    background: linear-gradient(to bottom, #366B29,#78EE5A, #edf4ed);
+    width: 1250px; /* largura da caixa */
+    height: 100px; /* altura da caixa */
+    background-color: #fff; /* cor de fundo */
+    border-radius: 25px; /* raio dos cantos arredondados */
+    padding: 20px; /* espaço interno */
+    margin: 20px;
+    text-align: center;
+     
+}
+
+#rodape{
+    text-align: center;
+    padding: 20px;
+    
+}
+
